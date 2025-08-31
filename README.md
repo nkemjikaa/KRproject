@@ -1,9 +1,11 @@
 # KRproject
+
 # How to run game
-1.Download Python on your system
 
-2.Open the folder with Visual Studio Code or a Python IDE (preferably Visual Studio Code)
+Download Python on your system
 
-3.Make sure Python is an acceptable programming language in your application
+Open the folder with Visual Studio Code or a Python IDE (preferably Visual Studio Code)
 
-4.Run main.py to play 
+Make sure Python is an acceptable programming language in your application
+
+Run main.py to play 
